@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "MAQ_shape",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:ESRI::37202" } },
+"features": [
+{ "type": "Feature", "properties": { "plot_id": "Block_B_33_S", "area_sqm": 1353.7184161543846, "area_dec": 33.842960403859614 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.402749, 23.990297 ], [ 90.402523, 23.990263 ], [ 90.402426, 23.990767 ], [ 90.402663, 23.990803 ], [ 90.402749, 23.990297 ] ] ] } },
+{ "type": "Feature", "properties": { "plot_id": "Block_A_1_W", "area_sqm": 2196.2297167945653, "area_dec": 54.905742919864132 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.397253, 23.990381 ], [ 90.39645, 23.990259 ], [ 90.396399, 23.990492 ], [ 90.397199, 23.990618 ], [ 90.397253, 23.990381 ] ] ] } },
+{ "type": "Feature", "properties": { "plot_id": "Block_A_2_W", "area_sqm": 1571.7703619077802, "area_dec": 39.294259047694503 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.397153, 23.990804 ], [ 90.397184, 23.990622 ], [ 90.396444, 23.990507 ], [ 90.396412, 23.990692 ], [ 90.397153, 23.990804 ] ] ] } },
+{ "type": "Feature", "properties": { "plot_id": "Block_A_12_N", "area_sqm": 1276.8809546455741, "area_dec": 31.922023866139352 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.39883, 23.990873 ], [ 90.3986, 23.990838 ], [ 90.398508, 23.991331 ], [ 90.39872, 23.991371 ], [ 90.39883, 23.990873 ] ] ] } },
+{ "type": "Feature", "properties": { "plot_id": "Block_A_25_S", "area_sqm": 1407.7050201110542, "area_dec": 35.192625502776352 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.401539, 23.9913 ], [ 90.401439, 23.991816 ], [ 90.401671, 23.991859 ], [ 90.401773, 23.991338 ], [ 90.401539, 23.9913 ] ] ] } },
+{ "type": "Feature", "properties": { "plot_id": "Block_A_25_N", "area_sqm": 1298.2287336215377, "area_dec": 32.455718340538439 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.401445, 23.991844 ], [ 90.401335, 23.992331 ], [ 90.401572, 23.992365 ], [ 90.401667, 23.991879 ], [ 90.401445, 23.991844 ] ] ] } },
+{ "type": "Feature", "properties": { "plot_id": "Block_A_27", "area_sqm": 1497.6884592846036, "area_dec": 37.442211482115091 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.401919, 23.991869 ], [ 90.401698, 23.991833 ], [ 90.401581, 23.992396 ], [ 90.401813, 23.99244 ], [ 90.401919, 23.991869 ] ] ] } }
+]
+}
